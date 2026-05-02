@@ -1,126 +1,187 @@
-# Privacy Policy — Dermly
+# Privacy Policy
 
-**Effective date:** May 2, 2026
-**Last updated:** May 2, 2026
-**Applies to:** Dermly mobile app
+**Last updated: May 02, 2026**
 
----
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-> **The short version:**
-> Dermly collects zero personal data from you. All your data lives on your device and is deleted when you uninstall the app. Barcodes and search terms are sent to OpenBeautyFacts to look up products — no personal info attached. Google Fonts CDN receives your IP address on first launch for font delivery. We never sell, share, or monetise anything related to you.
+We use Your Personal Data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
 
 ---
 
-## Table of Contents
+## Interpretation and Definitions
 
-1. [Introduction](#1-introduction)
-2. [Information We Collect — and Don't Collect](#2-information-we-collect--and-dont-collect)
-3. [Data Stored on Your Device](#3-data-stored-on-your-device)
-4. [Third-Party Services](#4-third-party-services)
-5. [Children's Privacy](#5-childrens-privacy)
-6. [Your Rights (GDPR & Applicable Privacy Laws)](#6-your-rights-gdpr--applicable-privacy-laws)
-7. [Data Security](#7-data-security)
-8. [Changes to This Policy](#8-changes-to-this-policy)
-9. [Contact Us](#9-contact-us)
+### Interpretation
 
----
+The words whose initial letters are capitalized have meanings defined under the following conditions. These definitions shall have the same meaning regardless of whether they appear in singular or plural.
 
-## 1. Introduction
+### Definitions
 
-Dermly ("we," "our," or "us") is a skincare ingredient analysis app developed by **Devbrid**. This Privacy Policy explains how we handle information when you use the Dermly mobile application.
+For the purposes of this Privacy Policy:
 
-We built Dermly with a privacy-first approach. We do not create accounts, track behaviour, or store anything on our own servers. The policy below is our commitment to transparency about the very limited external interactions the app does make.
-
----
-
-## 2. Information We Collect — and Don't Collect
-
-Dermly does not collect, transmit, or store any personally identifiable information (PII). There are no accounts, no sign-ups, and no analytics.
-
-| Data Type | Collected by us? | Notes |
-|---|---|---|
-| Name, email, phone | ❌ Never | No accounts or sign-up required. |
-| Location | ❌ Never | App does not request location permission. |
-| Camera / photos | ❌ Never | Used locally on-device only; images are never uploaded. |
-| Usage & analytics | ❌ Never | No analytics SDKs integrated. |
-| Barcodes & search terms | ⚠️ Third-party | Sent to OpenBeautyFacts API for product lookup. No personal info attached. |
-| IP address (fonts) | ⚠️ Third-party | Google Fonts CDN receives your IP on first launch for font delivery. |
-| App preferences & history | ✅ On-device only | Stored locally. Deleted on uninstall. Never synced to our servers. |
+- **Account**: A unique account created for You to access our Service or parts of our Service.  
+- **Affiliate**: An entity that controls, is controlled by, or is under common control with a party.  
+- **Application**: Dermly, the software program provided by the Company.  
+- **Company**: Dermly ("We", "Us", "Our").  
+- **Country**: Orissa, India  
+- **Device**: Any device that can access the Service (computer, phone, tablet).  
+- **Personal Data / Personal Information**: Any information that relates to an identified or identifiable individual.  
+- **Service**: The Application.  
+- **Service Provider**: Third parties who process data on behalf of the Company.  
+- **Usage Data**: Data collected automatically from use of the Service.  
+- **You**: The individual or entity using the Service.  
 
 ---
 
-## 3. Data Stored on Your Device
+## Collecting and Using Your Personal Data
 
-Any preferences, scan history, or ingredient data you interact with in Dermly is stored exclusively in your device's local storage. This data:
+### Types of Data Collected
 
-- **Access** — Only you, on your device. We have no access whatsoever.
-- **Deletion** — Automatically deleted when you uninstall Dermly.
-- **Backup** — May be included in your OS-level device backup (e.g. iCloud / Google Backup), subject to your own device settings.
-- **Server sync** — Never synced to any Dermly or Devbrid server.
+#### Personal Data
 
----
+We may collect:
 
-## 4. Third-Party Services
+- Email address  
+- First name and last name  
 
-Dermly communicates with two external services:
+#### Usage Data
 
-| Service | Purpose | Data Sent | Their Privacy Policy |
-|---|---|---|---|
-| **OpenBeautyFacts** | Product ingredient lookup via barcode scan or search | Barcode number or search term. No user identifiers. | [openbeautyfacts.org/privacy](https://world.openbeautyfacts.org/privacy) |
-| **Google Fonts CDN** | Loading display fonts on first app launch | Your IP address (standard HTTP request). Google may log this per their CDN policy. | [policies.google.com/privacy](https://policies.google.com/privacy) |
+Usage Data is collected automatically and may include:
 
-We do not use advertising networks, social media SDKs, crash-reporting services (e.g. Firebase Crashlytics), or any other third-party SDK that collects data.
-
-> **Note on Google Fonts:** If you would like to avoid your IP being shared with Google, you may block network access to `fonts.googleapis.com` at the OS or network firewall level. The app will fall back to a system font gracefully.
-
----
-
-## 5. Children's Privacy
-
-Dermly does not knowingly collect any information from children under the age of 13 (or 16 in the EU/EEA under GDPR). Because we collect no personal data at all, Dermly is safe for users of all ages.
-
-If you believe your child's data has somehow been collected, please contact us at [help@devbrid.in](mailto:help@devbrid.in) and we will investigate promptly.
+- IP address  
+- Browser type and version  
+- Pages visited  
+- Time and date of visits  
+- Time spent on pages  
+- Device identifiers  
+- Mobile device information (ID, OS, browser type)
 
 ---
 
-## 6. Your Rights (GDPR & Applicable Privacy Laws)
+### Use of Your Personal Data
 
-Because Dermly does not collect or store personal data on our servers, most GDPR data subject rights (access, rectification, portability, erasure) are exercised simply by managing or deleting the app on your own device.
+We use Personal Data to:
 
-If you have any questions about your rights, want confirmation that we hold no data about you, or wish to make a formal deletion request, you can contact us at any time:
-
-📧 **[help@devbrid.in](mailto:help@devbrid.in)**
-Privacy requests are acknowledged within 72 hours and resolved within 30 days.
-
-If you are in the EU/EEA and believe we have not addressed your concern adequately, you have the right to lodge a complaint with your local data protection authority.
-
----
-
-## 7. Data Security
-
-Since we hold no personal data on our servers, there is no centralised database to breach. The only data that exists lives locally on your device and is protected by your device's own security model (e.g. iOS Secure Enclave, Android Keystore).
-
-We recommend keeping your device OS updated and using a screen lock to protect your local app data.
+- Provide and maintain the Service  
+- Manage Your account  
+- Perform contracts  
+- Contact You (email, SMS, notifications)  
+- Send offers and updates (unless opted out)  
+- Handle requests  
+- Process business transfers  
+- Analyze data and improve services  
 
 ---
 
-## 8. Changes to This Policy
+### Sharing Your Personal Data
 
-We may update this Privacy Policy from time to time. Any changes will be posted at:
+We may share Your data:
 
-🔗 [originlhibrid.github.io/privacy_policy](https://originlhibrid.github.io/privacy_policy)
-
-with an updated effective date. For material changes, we will include an in-app notification. Continued use of Dermly after changes constitutes acceptance of the updated policy.
-
----
-
-## 9. Contact Us
-
-If you have any questions, concerns, or requests relating to this Privacy Policy or how Dermly handles data, please reach out:
-
-📧 **[help@devbrid.in](mailto:help@devbrid.in)**
-Devbrid — Developer of Dermly
+- With Service Providers  
+- During business transfers  
+- With Affiliates  
+- With business partners  
+- With other users (in public areas)  
+- With Your consent  
 
 ---
 
-*© 2026 Devbrid. All rights reserved.*
+## Retention of Your Personal Data
+
+We retain Personal Data only as long as necessary.
+
+### Retention periods:
+
+- **Account data**: Duration of account + up to 24 months after closure  
+- **Support data**: Up to 24 months after ticket closure  
+- **Chat transcripts**: Up to 24 months  
+- **Usage data & logs**: Up to 24 months  
+
+We may retain data longer for:
+
+- Legal obligations  
+- Legal claims  
+- User requests  
+- Technical backup limitations  
+
+### Data handling after retention:
+
+- Deleted from systems  
+- Retained in backups temporarily  
+- Or anonymized for analytics  
+
+---
+
+## Transfer of Your Personal Data
+
+Your data may be transferred to systems outside Your jurisdiction. We ensure appropriate safeguards are applied to protect Your data.
+
+---
+
+## Delete Your Personal Data
+
+You have the right to:
+
+- Access  
+- Update  
+- Delete Your Personal Data  
+
+You can do this via account settings or by contacting us.
+
+Note: Some data may be retained due to legal obligations.
+
+---
+
+## Disclosure of Your Personal Data
+
+### Business Transactions
+
+Data may be transferred during mergers or acquisitions.
+
+### Law Enforcement
+
+We may disclose data if required by law.
+
+### Other Legal Reasons
+
+We may disclose data to:
+
+- Comply with laws  
+- Protect rights  
+- Prevent wrongdoing  
+- Ensure user safety  
+- Avoid legal liability  
+
+---
+
+## Security of Your Personal Data
+
+We use reasonable security measures, but no method is 100% secure.
+
+---
+
+## Children's Privacy
+
+We do not knowingly collect data from anyone under 16. If such data is discovered, it will be deleted.
+
+---
+
+## Links to Other Websites
+
+We are not responsible for third-party websites or their privacy practices.
+
+---
+
+## Changes to this Privacy Policy
+
+We may update this policy. Changes will be notified via:
+
+- Email  
+- App notifications  
+
+---
+
+## Contact Us
+
+If you have questions, contact us:
+
+- **Email**: help@devbrid.in
